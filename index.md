@@ -13,8 +13,8 @@ https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Encryption.zip
 https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Exceptions.zip
 https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Encryption.zip
 https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Numeric%20Overflow.sln
-<a href=" https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/test.cpp">test.cpp</a> <br /> 
-<a href=" https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/pch.h">pch.h</a> <br />  
+<a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/test.cpp">test.cpp</a> <br /> 
+<a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/pch.h">pch.h</a> <br />  
 <a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/pch.cpp">pch.cpp</a> <br /> 
 <a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Numeric%20Overflow.sln">Numeric_Overflow</a> <br /> 
 <a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Questionable%20Code.zip">Questionable_Code</a> <br /> 
