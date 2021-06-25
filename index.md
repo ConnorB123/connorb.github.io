@@ -13,11 +13,11 @@ https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Encryption.zip
 https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Exceptions.zip
 https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Encryption.zip
 https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Numeric%20Overflow.sln
-https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/test.cpp
-https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/pch.h
-https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/pch.cpp
-https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Numeric%20Overflow.sln
-https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Questionable%20Code.zip
-<a href="https://github.com/ConnorB123/ConnorB123.github.io/blob/main/Software%20Design%20and%20Engineering">Software_Design_and_Engineering</a>
+<a href=" https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/test.cpp">test.cpp</a>
+<a href=" https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/pch.h">pch.h</a>
+<a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/pch.cpp">pch.cpp</a>
+<a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Numeric%20Overflow.sln">Numeric_Overflow</a>
+<a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Questionable%20Code.zip">Questionable_Code</a>
+
 
 ### Portfolio journal reflection
