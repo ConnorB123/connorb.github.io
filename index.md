@@ -1,10 +1,10 @@
 ## Weclome to Connor Blauchs CS 405 Portfolio
 
 
-## Project One Security Policy
+### Project One Security Policy
 
 ### Project Two Presentation
 
-## Coding ZIP files
+### Coding ZIP files
 
-## Portfolio journal reflection
+### Portfolio journal reflection
