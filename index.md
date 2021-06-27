@@ -18,5 +18,5 @@
 <a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Numeric%20Overflow.sln">Numeric_Overflow</a> <br /> 
 <a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Questionable%20Code.zip">Questionable_Code</a> <br /> 
 
-
 ### Portfolio journal reflection
+<a href="https://github.com/ConnorB123/connorb.github.io/blob/gh-pages/Portfolio%20Reflection.docx">Journal</a> <br /> 
